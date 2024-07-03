@@ -1,5 +1,5 @@
 # Alien-Invasion
-A 2D game in which the aim is to shoot down a fleet of aliens as they drop down the screen in levels that increase in speed and difficulty. This is a major project assignment by Alif Dio Af'ally for the Introduction to Programming course, where I am required to complete, develop, and create the game based on an incomplete script provided earlier.
+A 2D game where the objective is to shoot down a fleet of aliens as they descend the screen in levels that increase in speed and difficulty. This game is based on Python and is a major project assignment for the Introduction to Programming course, where I am required to complete, develop, and create the game based on an incomplete script provided earlier.
 
 ## Pygame Installation
 Pygame requires Python; if you don't already have it, you can download it from python.org. Use python 3.7.7 or greater, because it is much friendlier to newbies, and additionally runs faster.
